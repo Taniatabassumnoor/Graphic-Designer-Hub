@@ -1,0 +1,186 @@
+[
+    
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "image":"https://randomuser.me/api/portraits/men/51.jpg",
+      "phone": "010-692-6593",
+      "salary": 4600.99,
+      "Portfolio": "anastasia.net"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "image":"https://randomuser.me/api/portraits/women/84.jpg",
+      "phone": "1-463-123-4447",
+      "salary": 6507.93,
+      "Portfolio": "ramiro.info"
+    },
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Likua",
+      "email": "Nathan@yesenia.net",
+      "image":"https://randomuser.me/api/portraits/women/4.jpg",
+      "phone": "1-463-123-4447",
+      "salary": 7406.95,
+      "Portfolio": "melloque.info"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "image":"https://randomuser.me/api/portraits/men/77.jpg",
+      "phone": "493-170-9623",
+      "salary": 5503.98,
+      "Portfolio": "kale.biz"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "image":"https://randomuser.me/api/portraits/men/45.jpg",
+      "phone": "(254)954-1289",
+      "salary": 9200.84,
+      "Portfolio": "demarco.info"
+    },
+    {
+      "id": 6,
+      "name": "Dennis Schulist",
+      "username": "Kamren",
+      "email": "Danis_Hettinger@annie.ca",
+      "image":"https://randomuser.me/api/portraits/men/67.jpg",
+      "phone": "1-477-935-8478",
+      "salary": 1100.90,
+      "Portfolio": "ola.org"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.HoegerTolly@billy.biz",
+      "image":"https://randomuser.me/api/portraits/men/60.jpg",
+      "phone": "210.067.6132",
+      "salary": 1200.50,
+      "Portfolio": "elvis.io"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "image":"https://randomuser.me/api/portraits/women/30.jpg",
+      "phone": "586.493.6943",
+      "salary": 2500.04,
+      "Portfolio": "ynthe.com"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "image":"https://randomuser.me/api/portraits/women/96.jpg",
+      "phone": "(775)976-6794",
+      "salary": 3674.92,
+      "Portfolio": "conrad.com"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "image":"https://randomuser.me/api/portraits/women/59.jpg",
+      "phone": "024-648-3804",
+      "salary": 8600.96,
+      "Portfolio": "ambrose.net"
+    },
+    {
+        "id": 11,
+        "name": "Ariane Johnson",
+        "username": "Ane",
+        "email": "ariane.johnson@example.com",
+        "image":"https://randomuser.me/api/portraits/women/71.jpg",
+        "phone": "863-096-3819",
+        "salary": 5660.92,
+        "Portfolio": "kalifroz.org"
+      },
+    {
+        "id": 12,
+        "name": "Abigail Cole",
+        "username": "Abli",
+        "email": "abigail.cole@example.com",
+        "image":"https://randomuser.me/api/portraits/men/52.jpg",
+        "phone": "552-490-4292",
+        "salary": 6690.44,
+        "Portfolio": "abason.net"
+      },
+    {
+        "id": 13,
+        "name": "Josefina Bravo",
+        "username": "Jafi",
+        "email": "josefina.bravo@example.com",
+        "image":"https://randomuser.me/api/portraits/women/14.jpg",
+        "phone": "0728-202-294",
+        "salary": 7600.77,
+        "Portfolio": "nikolai.net"
+      },
+    {
+        "id": 14,
+        "name": "Mary Mitchell",
+        "username": "Chello",
+        "email": "mary.mitchell@example.com",
+        "image":"https://randomuser.me/api/portraits/women/90.jpg",
+        "phone": "907-738-751",
+        "salary": 3700.91,
+        "Portfolio": "Niff.org"
+      },
+      {
+        "id": 15,
+        "name": "Caroline Pedersen",
+        "username": "Papo",
+        "email": "caroline.pedersen@example.com",
+        "image":"https://randomuser.me/api/portraits/women/9.jpg",
+        "phone": "287-895-6009",
+        "salary": 8600.96,
+        "Portfolio": "padery.org"
+      },
+      {
+        "id": 16,
+        "name": "Hilbertus Zwaal",
+        "username": "Zilbus",
+        "email": "hilbertus.zwaal@example.com",
+        "image":"https://randomuser.me/api/portraits/men/10.jpg",
+        "phone": "0920-149-1358",
+        "salary": 4200.39,
+        "Portfolio": "karufa.biz"
+      },
+      {
+        "id": 17,
+        "name": "Grégoire Joly",
+        "username": "Metoa",
+        "email": "gregoire.joly@example.com",
+        "image":"https://randomuser.me/api/portraits/women/94.jpg",
+        "phone": "081-648-6164",
+        "salary": 2410.52,
+        "Portfolio": "lamoa.net"
+      },
+      {
+        "id": 18,
+        "name": "Becky Rhodes",
+        "username": "Hibali",
+        "email": "becky.rhodes@example.com",
+        "image":"https://randomuser.me/api/portraits/women/74.jpg",
+        "phone": "04-1004-8739",
+        "salary": 9786.97,
+        "Portfolio": "tatua.org"
+      }
+      
+      
+    
+  ]
