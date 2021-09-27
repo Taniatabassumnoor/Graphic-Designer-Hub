@@ -2,6 +2,7 @@
 .community-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
+    
 }
 .designer-container{
     display: grid;
@@ -10,7 +11,8 @@
     column-gap: 3%;
     margin-left: 3%;
      margin-top: 5%;
-    /* padding: 5%;  */
+     
+    
 }
 #head{
     text-align: center;
@@ -22,10 +24,11 @@
 .cart-container{
     border: 1px solid lavender;
     width: 100%;
-    height: 300px;
+    height: 113%;
+    border-radius: 5px;
     margin-top: 20%;
-    margin-left: 2%;
-    margin-right: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
     padding: 20%;
     background-color: lavenderblush;
     color: #d63384;

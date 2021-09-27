@@ -6,7 +6,6 @@ import './Community.css';
 const Community = () => {
     const [designers, setDesigners] = useState([]);
     const [cart, setCart] = useState([]);
-    // const [modal,setModal] = useState([]);
     useEffect(() => {
         fetch('./data.json')
             .then(res => res.json())
@@ -16,10 +15,7 @@ const Community = () => {
         const newCart = [...cart, designer];
         setCart(newCart);
     }
-    // const handleAddToPerson = (person) => {
-    //     const newModal = [...modal,person];
-    //     setModal(newModal);
-    // }
+
 
     return (
 
@@ -35,12 +31,11 @@ const Community = () => {
                             handleAddToCart={handleAddToCart}
                         ></Designer>)
                     }
-                    
+
                 </div>
 
                 <div className="cart-container">
                     <Cart cart={cart}></Cart>
-                    {/* <Modal modal={modal}></Modal> */}
                 </div>
             </div>
         </div>
